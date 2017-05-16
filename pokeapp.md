@@ -21,7 +21,7 @@ Build an app that renders the names of the first 151 Pokémon in the pokéapi da
 
 3. Style that puppy and make it look goooooood.
 
-4. Submit hw via github issue, **including a bitballoon link** of your final app.
+4. Make sure to deploy your app on a platform of your choice.
 
 ## Bonus
 
