@@ -1,6 +1,6 @@
 # PokéApp
 
-Over the next two days, you will be building a Pokémon app in **React** using this super neat, super free [PokeApi](https://pokeapi.co/)!
+Over the next three days, you will be building a Pokémon app in **React** using this super neat, super free [PokeApi](https://pokeapi.co/)!
 
 ## Here's your mockup:
 
