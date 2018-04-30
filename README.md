@@ -1,6 +1,6 @@
 # PokéApp
 
-Over the next ~~two days~~ **afternoon!**, you will be building a Pokémon app in **React** with your team using this super neat, super free [PokeApi](https://pokeapi.co/)!
+You will be building a Pokémon app in **React** using this super neat, super free [PokeApi](https://pokeapi.co/)!
 
 ## Here's your mockup:
 
@@ -14,11 +14,7 @@ Build an app that renders the names of the first 151 Pokémon in the pokéapi da
 
 1. Tackle app above with React. Make sure to write clean code, with frequent git commits
 
-2. Use the 
-
 2. Style that puppy and make it look goooooood.
-
-3. Make sure to deploy your app on a platform of your choice.
 
 ## Bonus
 
