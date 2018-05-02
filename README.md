@@ -26,4 +26,4 @@ Feeling like a rockstar? Add the Pokémon's abilities to the rendered profile (s
 
 ## Completion
 
-Fork and clone this repo and submit it using an issue w/ wins, losses, challenges and your partner's name. 
+Fork and clone this repo and submit it as an issue w/ wins, losses, challenges and your partner's name. 
