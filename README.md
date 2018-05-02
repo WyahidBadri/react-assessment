@@ -14,12 +14,16 @@ Build an app that renders the names of the first 151 Pokémon in the pokéapi da
 
 1. Tackle app above with React. Make sure to write clean code, with frequent git commits
 
-2. Style that puppy and make it look goooooood.
-
 ## Bonus
+
+2. Style that puppy and make it look goooooood.
 
 When the user clicks a name, the app should render information about that Pokémon, including the name and weight.
 
 ## Super Bonus
 
 Feeling like a rockstar? Add the Pokémon's abilities to the rendered profile (see mockup above).
+
+##Completion
+
+Fork and clone this repo and submit it using an issue w/ wins, losses, challenges and your partner's name. 
