@@ -24,6 +24,6 @@ When the user clicks a name, the app should render information about that Pokém
 
 Feeling like a rockstar? Add the Pokémon's abilities to the rendered profile (see mockup above).
 
-##Completion
+## Completion
 
 Fork and clone this repo and submit it using an issue w/ wins, losses, challenges and your partner's name. 
