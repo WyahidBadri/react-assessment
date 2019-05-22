@@ -30,4 +30,4 @@ Feeling like a rockstar? Add the Pokémon's abilities to the rendered profile (s
 
 ## Completion
 
-Fork and clone this repo and submit your pull request w/ wins, losses, and challenges.
+Fork and clone this repo, complete the application, and submit your pull request w/ your self assessment
