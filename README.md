@@ -17,17 +17,12 @@ Build an app that has 3 routes
 
 ## Deliverables
 
-1. Tackle app above with React. Make sure to write clean code, with frequent git commits
+1. Tackle app above with React. Make sure to write clean code, with frequent git commits. Don't forget to style it and make it look good.
 
 ## Bonus
 
- Style that puppy and make it look goooooood.
-
-
-## Super Bonus
-
-Feeling like a rockstar? Add the Pokémon's abilities to the rendered profile (see mockup above).
+Add the Pokémon's abilities to the rendered profile (see mockup above).
 
 ## Completion
 
-Fork and clone this repo, complete the application, and submit your pull request w/ your self assessment
+Fork and clone this repo, complete the application, and submit your pull request.
